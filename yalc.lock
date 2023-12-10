@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "atom.io": {
+      "signature": "e427106ef5c3268b297aa18e894beb16",
+      "file": true,
+      "replaced": "0.8.2"
+    }
+  }
+}
